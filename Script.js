@@ -4,4 +4,4 @@ function countSheeps(arrayOfSheep) {
         if(arrayOfSheep[i]) counter += 1
     }
     return counter
-} //1432424242
+} //000000000000000
